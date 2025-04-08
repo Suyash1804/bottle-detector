@@ -1,0 +1,11 @@
+cricket_ball_data
+myenv
+__pycache__/
+.ipynb_checkpoints/
+augmented_data/
+cricket_ball_data/
+frames/
+Output/
+runs/
+videos/
+*.pt

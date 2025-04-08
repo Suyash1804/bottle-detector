@@ -1,0 +1,6 @@
+path: C:\Users\lonar\OneDrive\Desktop\Cricket-Ball-Trajectory-Prediction-master-modified\cricket_ball_data
+train: train/ballsonly
+val: valid/ballsonly
+
+names: 
+  0: cricketBall
