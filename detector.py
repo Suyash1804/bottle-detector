@@ -7,7 +7,7 @@ import logging
 logging.getLogger('ultralytics').setLevel(logging.CRITICAL)
 
 # Load a model
-model = YOLO("yolov5lu.pt")
+model = YOLO("yolov5su.pt")
 
 
 # results = model("https://ultralytics.com/images/bus.jpg")  # predict on an image
